@@ -1,0 +1,53 @@
+.container {
+    width: 70%;
+    height: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+
+
+button {
+    cursor: pointer;
+    border: solid 1px rgb(30, 27, 27);
+    border-radius: 5px;
+    font-size: 14px;
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+#display {
+    display: flex;
+    flex-direction: column;
+    padding: 0px 20px;
+    margin-top: 80px;
+    width: 500px;
+}
+
+#display #header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.sum {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: white;
+    border-bottom: 1px solid black;
+    padding: 0px 10px;
+
+}
+
+
