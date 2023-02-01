@@ -7,7 +7,7 @@
 3. Step 3: Add the styling in the styles.css file
 
 ## Example
-
+adding it in public repo
 ![This is an image](./Screenshot/Screenshot1.png)
 
 ![This is an image](./Screenshot/Screenshot2.png)
